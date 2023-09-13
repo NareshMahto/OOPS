@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mahto
+ *
+ */
+module ClassAndObject {
+}
